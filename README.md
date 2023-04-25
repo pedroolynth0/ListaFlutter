@@ -25,9 +25,7 @@ Aqui estão algumas screenshots do aplicativo em execução:
 
 ![Tela de detalhes do contato com o nome do contato no AppBar](lista/screenshots/imagem2.png)
 
-## Contribuição
 
-Este é um projeto de código aberto e contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
 
 ## Licença
 
