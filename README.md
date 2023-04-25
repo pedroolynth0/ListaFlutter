@@ -21,9 +21,7 @@ Para executar o aplicativo, siga os seguintes passos:
 
 Aqui estão algumas screenshots do aplicativo em execução:
 
-![Tela principal do aplicativo com a lista de contatos](lista/screenshots/imagem1.png)
-
-![Tela de detalhes do contato com o nome do contato no AppBar](lista/screenshots/imagem2.png)
+<img src="lista/screenshots/imagem1.png" width="40%" /> <img src="lista/screenshots/imagem2.png" width="40%" />
 
 
 
